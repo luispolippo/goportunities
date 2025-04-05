@@ -1,1 +1,10 @@
+*.exe
+*.dll
+*.so
+*.dylib
+
+*.test
+*.out
+
+db/
 /go.sum
